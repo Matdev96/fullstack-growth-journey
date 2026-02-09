@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node
+node_modules/
+dist/
+.eslintcache
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+
+# Docker volumes (não versionar)
+postgres_data/
